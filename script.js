@@ -7,7 +7,7 @@ const startButton = document.querySelector(".start-button");
 const container = document.getElementById("container");
 const lottie = document.querySelector("lottie-player");
 
-const texts = ["", "Happy", "Birthday", "Swathi", "Yadav"];
+const texts = ["", "Happy", "Birthday", "Devanccchhh", "I","wish","that","you","always","stay","happy","&","keep","showing","your","YELLOW","teeth",":)"];
 
 const morphTime = 1;
 const cooldownTime = 0.25;
